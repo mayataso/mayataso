@@ -1,4 +1,7 @@
-<div style="height: 60px; background-image: url(img_hiyoko.png); background-size: contain"></div>
+<p align="center">
+    <img width="180" src="img_hiyoko.png"></img>
+    < Hi there
+</p>
 
 ---
 ![](https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black)
@@ -23,6 +26,3 @@
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=mayataso&show_icons=true&theme=onedark&count_private=true&cache_seconds=7200" />
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayataso&theme=onedark&langs_count=10&show_icons=true&layout=compact&cache_seconds=7200" />
 </p>
-
----
-<div style="height: 60px; background-image: url(img_hiyoko.png); background-size: contain"></div>
