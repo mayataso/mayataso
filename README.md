@@ -23,6 +23,6 @@
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=mayataso&show_icons=true&theme=onedark&count_private=true&cache_seconds=7200" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayataso&theme=onedark&langs_count=10&show_icons=true&layout=compact&cache_seconds=7200" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api?username=mayataso&show_icons=true&theme=onedark&count_private=true&cache_seconds=7200" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayataso&theme=onedark&langs_count=10&show_icons=true&layout=compact&cache_seconds=7200" />
 </p>
