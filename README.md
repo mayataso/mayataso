@@ -1,9 +1,10 @@
-<p align="center">
+<p align="center" style="display: flex; justify-content: center;">
     <img width="180" src="img_hiyoko.png"></img>
     < Hi there
 </p>
 
 ---
+
 ![](https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/CSS-0092bf?style=flat-square&logo=css3&logoColor=white)
@@ -21,6 +22,7 @@
 ![](https://img.shields.io/badge/macOS-f5f5f7?style=flat-square&logo=apple&logoColor=black)
 ![](https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayataso&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api?username=mayataso&show_icons=true&theme=onedark&count_private=true&cache_seconds=7200" />
